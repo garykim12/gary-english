@@ -98,15 +98,7 @@ export default function Home({ progress, go }: { progress: Progress; update: Upd
             ))}
             <span className="chip">+{day.chunks.length - 4}</span>
           </div>
-          <div className="row mt small muted">
-            <span>⏱ 약 60분</span>
-            <span>·</span>
-            <span>복습 {due}개</span>
-            <span>·</span>
-            <span>표현 8개</span>
-            <span>·</span>
-            <span>드릴 → 실전 대화</span>
-          </div>
+          <div className="tiny muted mt">⏱ 약 60분 · 복습 {due}개 · 표현 8개 · 드릴 → 실전 대화</div>
           <button className="btn mt" onClick={() => go({ name: "session", day: day.day })}>
             {inProgress ? "이어서 하기 ▶" : todayDone ? "하루 더 달리기 ▶" : "오늘 세션 시작 ▶"}
           </button>
@@ -114,15 +106,15 @@ export default function Home({ progress, go }: { progress: Progress; update: Upd
         </div>
       ) : null}
 
-      <div className="row" style={{ gap: 8 }}>
+      <div className="quick">
         <button className="btn secondary" onClick={() => go({ name: "review" })}>
-          🔁 복습 {due > 0 ? `(${due})` : ""}
+          🔁<span>복습{due > 0 ? ` ${due}` : ""}</span>
         </button>
         <button className="btn secondary" onClick={() => go({ name: "free" })}>
-          💬 자유 대화
+          💬<span>자유 대화</span>
         </button>
         <button className="btn secondary" onClick={() => go({ name: "library" })}>
-          📚 표현집
+          📚<span>표현집</span>
         </button>
       </div>
 

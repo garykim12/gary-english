@@ -1247,11 +1247,11 @@ export const phase4: Phase = {
       chunks: [
         {
           id: "d75-1",
-          phrase: "What do you do?",
-          ko: "무슨 일 하세요?",
-          example: "A: So, what do you do?\nB: I make PowerPoints for people who don't read them.",
-          exampleKo: "A: 그래서, 무슨 일 하세요?\nB: 안 읽는 사람들을 위해 파워포인트 만들어요.",
-          note: "미국 네트워킹의 첫 질문이에요. 'What's your job?'은 좀 딱딱하고, 이게 자연스러워요. 대답은 직함보다 '뭘 하는지'를 한 줄로.",
+          phrase: "How do you know the host?",
+          ko: "주최자랑은 어떻게 아세요?",
+          example: "A: How do you know the host?\nB: I don't. I followed the smell of free tacos.",
+          exampleKo: "A: 주최자랑은 어떻게 아세요?\nB: 몰라요. 공짜 타코 냄새 따라왔어요.",
+          note: "네트워킹·파티에서 대화 트는 만능 질문. 'host' 자리에 회사명이나 사람 이름을 넣어도 돼요. 답하고 나서 'What about you?'로 되묻기가 세트.",
           register: "neutral",
         },
         {

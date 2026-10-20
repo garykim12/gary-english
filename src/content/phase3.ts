@@ -1292,11 +1292,11 @@ export const phase3: Phase = {
         },
         {
           id: "d55-6",
-          phrase: "It's complicated.",
-          ko: "복잡해.",
-          example: "A: So are you two together or not?\nB: It's complicated. We're together on weekends.",
-          exampleKo: "A: 그래서 둘이 사귀는 거야 아니야?\nB: 복잡해. 주말에만 사귀어.",
-          note: "페이스북 연애 상태 옵션으로 유명해진 말이에요. 설명하기 싫은 관계나 상황에 쓰는 방패. 더 캐묻지 말라는 신호이기도 해요.",
+          phrase: "It's a whole thing.",
+          ko: "그게 좀 복잡한 사연이 있어.",
+          example: "A: So are you two together or not?\nB: It's a whole thing. Ask me after two drinks.",
+          exampleKo: "A: 그래서 둘이 사귀는 거야 아니야?\nB: 그게 좀 복잡한 사연이 있어. 두 잔 마신 다음에 물어봐.",
+          note: "설명하자면 길고 복잡하다는 걸 한 문장으로 퉁치는 말. 'It's a whole thing'은 최근 몇 년 사이 진짜 많이 쓰여요. 'whole'에 힘주기.",
           register: "casual",
         },
         {
