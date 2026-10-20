@@ -278,11 +278,11 @@ export const phase3: Phase = {
       chunks: [
         {
           id: "d44-1",
-          phrase: "Shut up!",
-          ko: "말도 안 돼!",
-          example: "A: I got upgraded to first class for free.\nB: Shut up! On a twelve-hour flight?",
-          exampleKo: "A: 공짜로 일등석 업그레이드 됐어.\nB: 말도 안 돼! 12시간 비행에?",
-          note: "'입 닥쳐'가 아니라 '헐, 진짜?'예요! 좋은 소식에 신나서 하는 리액션이에요. 톤이 전부예요. 웃으면서 눈 크게 뜨고 말해야 해요.",
+          phrase: "Get out of here!",
+          ko: "에이, 거짓말! (좋은 의미로 못 믿겠다)",
+          example: "A: I got upgraded to first class for free.\nB: Get out of here! On a twelve-hour flight?",
+          exampleKo: "A: 공짜로 일등석 업그레이드 됐어.\nB: 에이, 거짓말! 12시간 비행에?",
+          note: "'나가'가 아니라 '헐, 진짜?'예요! 좋은 소식에 신나서 하는 리액션. 상대 어깨를 살짝 밀면서 말하면 완전 미국식이에요.",
           register: "casual",
         },
         {
@@ -323,11 +323,11 @@ export const phase3: Phase = {
         },
         {
           id: "d44-6",
-          phrase: "I'm dead.",
-          ko: "나 죽어, 웃겨서.",
-          example: "A: And then he called the waiter 'Mom' by accident.\nB: I'm dead. Did he recover?",
-          exampleKo: "A: 그러고 나서 실수로 웨이터한테 '엄마'라고 불렀어.\nB: 나 죽어, 웃겨서. 수습은 했대?",
-          note: "너무 웃겨서 죽겠다는 뜻이에요. 문자로는 해골 이모지 하나로 대신하기도 해요. 슬픈 얘기엔 절대 쓰면 안 돼요!",
+          phrase: "I'm crying.",
+          ko: "나 눈물 나, 웃겨서.",
+          example: "A: And then he called the waiter 'Mom' by accident.\nB: I'm crying. Did he recover?",
+          exampleKo: "A: 그러고 나서 실수로 웨이터한테 '엄마'라고 불렀어.\nB: 나 눈물 나, 웃겨서. 수습은 했대?",
+          note: "너무 웃겨서 눈물 난다는 뜻이에요. 문자로는 😭 이모지 하나로 대신하기도 해요. 진짜 슬픈 얘기엔 헷갈릴 수 있으니 톤 주의!",
           register: "slang",
         },
         {
@@ -1256,11 +1256,11 @@ export const phase3: Phase = {
         },
         {
           id: "d55-2",
-          phrase: "The thing is,",
-          ko: "문제는 말이야,",
-          example: "A: Just tell her you don't like the gift.\nB: The thing is, she knitted it herself. For three months.",
-          exampleKo: "A: 선물 마음에 안 든다고 그냥 말해.\nB: 문제는 말이야, 걔가 직접 떴어. 세 달 동안.",
-          note: "'Here's the thing'이랑 거의 같은데 이건 문장 중간에 끼워 쓰기 좋아요. 'the thing is that'에서 'that'은 빼는 게 자연스러워요.",
+          phrase: "The catch is,",
+          ko: "근데 함정이 있는데,",
+          example: "A: Just tell her you don't like the gift.\nB: The catch is, she knitted it herself. For three months.",
+          exampleKo: "A: 선물 마음에 안 든다고 그냥 말해.\nB: 근데 함정이 있는데, 걔가 직접 떴어. 세 달 동안.",
+          note: "좋아 보이는 것 뒤에 숨은 문제를 꺼낼 때. 'What's the catch?'(조건이 뭔데?)로도 자주 써요. 공짜 제안 들으면 반사적으로 나오는 말.",
           register: "casual",
         },
         {
@@ -1344,11 +1344,11 @@ export const phase3: Phase = {
         },
         {
           id: "d56-2",
-          phrase: "Speaking of which,",
-          ko: "말 나온 김에,",
-          example: "A: My sister's dog ate her tax documents.\nB: Speaking of which, have you done your taxes?",
-          exampleKo: "A: 우리 언니 개가 세금 서류를 먹었어.\nB: 말 나온 김에, 너 세금 신고했어?",
-          note: "앞 얘기에서 연결 고리를 잡아 자연스럽게 넘어가는 표현이에요. 'Speaking of dogs'처럼 구체적인 단어를 넣어도 돼요.",
+          phrase: "On a totally different note,",
+          ko: "완전 다른 얘긴데,",
+          example: "A: My sister's dog ate her tax documents.\nB: On a totally different note, have you done your taxes?",
+          exampleKo: "A: 우리 언니 개가 세금 서류를 먹었어.\nB: 완전 다른 얘긴데, 너 세금 신고했어?",
+          note: "연결 고리 없이 화제를 확 바꿀 때 미리 양해 구하는 말이에요. 'On a different note'만 해도 되고, 'totally'를 넣으면 더 캐주얼해요.",
           register: "neutral",
         },
         {
