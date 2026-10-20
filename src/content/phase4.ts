@@ -59,11 +59,11 @@ export const phase4: Phase = {
         },
         {
           id: "d61-6",
-          phrase: "Can't complain.",
-          ko: "뭐, 그럭저럭 괜찮죠.",
-          example: "A: How's it going over there?\nB: Can't complain. Coffee's hot, Wi-Fi works.",
-          exampleKo: "A: 거기 어때요?\nB: 뭐, 그럭저럭 괜찮죠. 커피 뜨겁고 와이파이 되고.",
-          note: "'잘 지내?'에 '불평할 건 없어'라고 답하는 미국식 겸손 모드예요. 진짜 좋을 때도, 그냥저냥일 때도 다 돼요. 어깨 으쓱은 필수.",
+          phrase: "Another day, another dollar.",
+          ko: "뭐, 또 하루 벌었죠. (그냥저냥 출근)",
+          example: "A: How's it going over there?\nB: Another day, another dollar. Coffee's hot, at least.",
+          exampleKo: "A: 거기 어때요?\nB: 뭐, 또 하루 벌었죠. 커피는 뜨겁네요, 적어도.",
+          note: "'잘 지내?'에 '그냥 돈 벌러 왔지 뭐'라고 답하는 직장인 전용 자조 유머예요. 살짝 지친 톤으로, 어깨 으쓱이랑 같이.",
           register: "casual",
         },
         {
